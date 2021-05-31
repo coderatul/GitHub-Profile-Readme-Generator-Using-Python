@@ -27,3 +27,15 @@
 
 - Then Run python file and Paste the Output in README.md file 
 - You are ready to go !!!
+
+## Common errors 
+- while entering any URL in python file make sure you add protocol 
+- for eg: dev.to/coderatul will lead to error ( error 404 page not found !)
+- so you can fix this by adding protocol : https://dev.to/coderatul 
+
+## 🙇 Special Thanks
+- [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [Jonah Lawrence](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Devansh](https://github.com/devansh-dek) for testing this project 💖
+- [Bhavesh](https://github.com/Bhavesh71) for testing this project 💖
