@@ -36,7 +36,7 @@ git_user = input("Enter your github username with double-quotes (eg:\"coderatul\
 
 # inputting github user name with double quotes at ending for displaying profile visits , trophy
 git_user_trophy = input("Enter your github username with double-quotes at end (eg:coderatul\") 🠮")
-git = ['<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderatul&label=Profile%20views&color=0e75b6'
+git = ['<p align="left"> <img src="https://komarev.com/ghpvc/?username=',user_name,'&label=Profile%20views&color=0e75b6'
        '&style=flat"alt=', git_user, "/></p>"]
 trophy = ['<p align=\"left\"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img '
           'src="https://github-profile-trophy.vercel.app/?username=', git_user_trophy, "", 'alt=', git_user,
