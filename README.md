@@ -2,7 +2,7 @@
   GitHub Profile README Generator Using Python 
 </h1>
 <p align="center">
-<i> 🌼 Change your Boring Github profile to Next-Level 🌼 </i>
+<i> 🌼 Change your Boring Github profile to Next-Level </i>
 </p>
 
 ## Before 😐
