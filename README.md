@@ -29,7 +29,7 @@
 ![Screenshot (16)](https://user-images.githubusercontent.com/72141859/120154803-3873eb00-c1be-11eb-96a3-cc07b0c03b3b.png)
 - Make sure that this repository is ```public``` and you have enabled ```Add a README file```
 
-- Then Run python file and Paste the Output in README.md file 
+- Then Run python file (  If you Don't Want a specific function then just leave it blank and press enter ! ) and Paste the Output in README.md file 
 - You are ready to go !!!
 
 ## Common errors 
@@ -45,5 +45,5 @@
 - [Bhavesh](https://github.com/Bhavesh71) for testing this project 💖
 
 ![header git](https://user-images.githubusercontent.com/72141859/120173177-c907f680-c1d1-11eb-9d7a-e3cc54670d1a.png)
-- If you liked this Banner you can make your own in [canva](https://www.canva.com/design/DAEdelIC5PQ/2oWD_3i9aUepagywUdEqeQ/view?utm_content=DAEdelIC5PQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+- If you liked this Banner you can make your own using [canva](https://www.canva.com/design/DAEdelIC5PQ/2oWD_3i9aUepagywUdEqeQ/view?utm_content=DAEdelIC5PQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 - After making Your Banner just drag and drop it in readme.md 
