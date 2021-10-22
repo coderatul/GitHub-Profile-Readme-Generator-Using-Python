@@ -27,14 +27,14 @@ sub = input("Enter Subtitle 🠮")
 subtitle = ('<h3 align="center">'+ sub+ '</h3>')
 
 # inputting github user name
-user_name = input("just Enter your github user name (eg: coderatul) :")
+user_name = input("Just Enter your github user name (eg: coderatul) :")
 git = ('<p align="left"> <img src="https://komarev.com/ghpvc/?username='+user_name+'&label=Profile%20views&color=0e75b6'
        '&style=flat"alt='+'""'+user_name+'""'"/></p>")
 
 trophy = ('<p align=\"left\"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img '
           'src="https://github-profile-trophy.vercel.app/?username='+ user_name+'"'+ ""+ 'alt='+'""'+user_name+'""'+
           " /></a> </p>")
-print("work")
+print("Work")
 
 # inputting name of project in which user is currently working
 project_name = input('🔭 I’m currently working on 🠮')
@@ -44,7 +44,7 @@ project_link = input('Link to above mentioned project 🠮 ')
 current_project = ('- 🔭 I’m currently working on '+ '['+ project_name+ ']'+ '('+ project_link+ ')')
 
 # inputting what what user is learning
-learn = input("🌱 I’m currently learning (if more than one separate Them with commas eg:seo+python) 🠮")
+learn = input("🌱 I’m currently learning (If more than one separate Them with commas eg:seo+python) 🠮")
 current_learn = ('- 🌱 I’m currently learning '+ ""+ '**'+ learn+ '**')
 
 # inputting project info for which user is using seeking collaborating
